@@ -1,5 +1,5 @@
 'use strict';
-console.log('Here\'s a hidden message\nThis is used for testing\ntesting more ...\nDone!!')
+console.log('Here\'s a hidden message\nThis is used for testing\ntesting mooore ...')
 
 let today = new Date()
 let formatDate = today.toDateString()
